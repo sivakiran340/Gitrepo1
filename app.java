@@ -9,3 +9,4 @@ for temp in temperatures:
 
 print("Temperatures above 20°C:", warm_days)
 print(f"Total warm days found: {len(warm_days)}")
+tesing stash
